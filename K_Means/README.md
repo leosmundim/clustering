@@ -7,4 +7,4 @@ Fonte: Prof. Fávero e Belfiore, MANUAL DE ANÁLISE DE DADOS, Capítulo 09
 
 - **Modelos Não Preditivos**
   - Análise de Cluster
-    - Método de Não Hierárquico K-Means
+    - Método Não Hierárquico K-Means
